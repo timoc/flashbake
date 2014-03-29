@@ -1,0 +1,4 @@
+* flashbake
+
+
+Scripts to gather information for including in version history comments and to make using source control a bit simpler for non-technical projects.
